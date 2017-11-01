@@ -1,0 +1,3 @@
+/**
+* Double-checked locking
+*/
